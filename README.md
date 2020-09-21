@@ -1,1 +1,2 @@
-# bigdata-practice
+# 18 Word Count: 从零开始运行你的第一个Spark应用
+# 19 综合案例实践： 处理加州房屋信息，构建线性回归模型
